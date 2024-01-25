@@ -6,7 +6,7 @@ public class ATM
         int balance=2000,withdraw,deposit;
         Scanner sc=new Scanner(System.in);
         while(true)
-        {
+        {h
             System.out.println("AUTOMATTED TELLER MACHINE");
             System.out.println("choose 1 for withdraw");
             System.out.println("choose 2 for Deposit");
